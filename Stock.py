@@ -1,0 +1,3 @@
+import quandl
+import numpy
+
